@@ -12,7 +12,7 @@ const products = [
     },
     {
         id: 2,
-        name: 'Faro',
+        name: 'Lighthouse',
         href: 'https://opensea.io/es/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/62648615036541005219400738089340035852325195276557814601388571445437132701697',
         imageSrc: 'https://i.seadn.io/gae/pb5exlqDFwi7HkCUXXEhYsMAZ86oZb6R6WcSaY_GU8sUb7nMCedxYdG1rYPBzxo-PPByLs6gnN_4f4J7RzDx2k_snyBf6CzM5LnWVQ?auto=format&w=1920',
         imageAlt: "Front of men's Basic Tee in black.",
@@ -21,7 +21,7 @@ const products = [
       },
       {
         id: 3,
-        name: 'Atardecer',
+        name: 'Sunset',
         href: 'https://opensea.io/es/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/62648615036541005219400738089340035852325195276557814601388571443238109446145',
         target: 'blank',
         imageSrc: 'https://i.seadn.io/gae/0_OcJwPZyNE1uVOy3EZ04ZY9FtPzHJO4PmfHBdtpuBbOWv_-fz8p_neqHpdWgCs4VQhiOB4HckaoUAGtnStYwpXC7z7Iva3VDeqsF6w?auto=format&w=1920',
